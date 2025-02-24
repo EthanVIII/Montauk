@@ -1,5 +1,3 @@
-from telegram import Update
-from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 import asyncio
 from dotenv import load_dotenv
 import os
